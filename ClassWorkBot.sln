@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWorkBot", "ClassWorkBot\ClassWorkBot.csproj", "{2A2DE9C6-CBF3-4B4D-81AF-60CC7FB04CCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWorkData", "ClassWorkData\ClassWorkData.csproj", "{CA6F8F42-DEA8-4028-9FF3-87ACC9F8C568}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2A2DE9C6-CBF3-4B4D-81AF-60CC7FB04CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A2DE9C6-CBF3-4B4D-81AF-60CC7FB04CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A2DE9C6-CBF3-4B4D-81AF-60CC7FB04CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6F8F42-DEA8-4028-9FF3-87ACC9F8C568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6F8F42-DEA8-4028-9FF3-87ACC9F8C568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6F8F42-DEA8-4028-9FF3-87ACC9F8C568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6F8F42-DEA8-4028-9FF3-87ACC9F8C568}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
