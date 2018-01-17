@@ -18,7 +18,7 @@ namespace ClassWorkBot
         {
             if (activity.Type == ActivityTypes.Message)
             {
-                await Conversation.SendAsync(activity, () => new Dialogs.SimpleDialog());
+                await Conversation.SendAsync(activity, () => new Dialogs.SimpleLUISDialog());
             }
             else
             {
